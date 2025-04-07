@@ -4,8 +4,8 @@
 ![Framework](https://img.shields.io/badge/ASP.NET%20Core-purple?style=flat&logo=microsoft&logoColor=white) ![Framework](https://img.shields.io/badge/.NET%20Core-purple?style=flat&logo=dotnet&logoColor=white) ![Framework](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white) ![Library](https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoColor=white)  
 ![Database](https://img.shields.io/badge/PostgreSQL-darkblue?logo=postgresql&logoColor=white)  
 ![Platform: Web](https://img.shields.io/badge/Platform-Web-blue?logo=google-chrome)
-![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-webapp-core?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/crud-webapp-core?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/crud-webapp-core?color=black&logo=open-source-initiative)
 
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-webapp-core?color=yellow&logo=github) 
 ---
 
 ## 1. Description
